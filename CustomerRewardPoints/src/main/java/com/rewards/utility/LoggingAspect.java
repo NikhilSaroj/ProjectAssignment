@@ -1,3 +1,6 @@
+/**
+ * Utility packages to handle Exceptions and Aspects
+ */
 package com.rewards.utility;
 
 import org.aspectj.lang.annotation.AfterThrowing;
