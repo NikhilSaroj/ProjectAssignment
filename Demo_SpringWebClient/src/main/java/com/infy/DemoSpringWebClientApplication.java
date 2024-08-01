@@ -27,8 +27,8 @@ public class DemoSpringWebClientApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		
 		//to get the specific customer details
-		getCustomerTransaction(2);
-		
+		//getCustomerTransaction(2);
+		System.out.println("Hello");
 		//To add the customer details
 //		CustomerTransactionDTO customer =  new CustomerTransactionDTO();
 //		customer.setCustomerId(103);
